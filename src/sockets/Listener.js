@@ -1,4 +1,4 @@
-const WebSocket = require("uws");
+const WebSocket = require("ws");
 const WebSocketServer = WebSocket.Server;
 
 const Connection = require("./Connection");

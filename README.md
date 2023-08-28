@@ -2,7 +2,7 @@
 
 # OgarII
 
-Your friendly agar.io private server recreation.
+Your friendly agar.io private server recreation, now using WebSockets instead of uWebSockets. Original Ogar II by Luca [here](https://github.com/Luka967/OgarII) (not the one who made Bubla)
 
 - It supports all current agar.io protocol versions.
 

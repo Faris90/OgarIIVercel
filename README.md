@@ -1,6 +1,6 @@
 [![shield to Agar.io Private Servers guild](https://discordapp.com/api/guilds/407210435721560065/embed.png?style=shield)](https://discord.gg/XcKgShT)
 
-# OgarII
+# OgarII WebSockets Edition
 
 Your friendly agar.io private server recreation, now using WebSockets instead of uWebSockets. Original Ogar II by Luca [here](https://github.com/Luka967/OgarII) (not the one who made Bubla)
 
